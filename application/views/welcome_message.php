@@ -12,20 +12,23 @@
 
     <title>SOSF Secret Sunset</title>
 
-    <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Core CSS     <link href="css/bootstrap.min.css" rel="stylesheet">
+-->
 
     <!-- Custom fonts -->
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
-    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="css/ionicons.min.css" rel="stylesheet" type="text/css">
-    <link href="css/animate.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800'>
+    
+    <link rel="stylesheet" href="<?php echo base_url("assets/css/font-awesome.min.css"); ?>" />
+    <link rel="stylesheet" href="<?php echo base_url("assets/css/ionicons.min.css"); ?>" />
+    <link rel="stylesheet" href="<?php echo base_url("assets/css/animate.min.css"); ?>" />
+
+
+
 
     <!-- Background Slider -->
-    <link href="js/vegas/vegas.min.css" rel="stylesheet" type="text/css">
-
+    <link rel="stylesheet" href="<?php echo base_url("assets/js/vegas/vegas.min.css"); ?>" />
     <!-- Custom CSS -->
-    <link href="css/csoon.css" rel="stylesheet">
+    <link rel="stylesheet" href="<?php echo base_url("assets/css/csoon.css"); ?>" />
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
