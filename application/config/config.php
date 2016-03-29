@@ -22,7 +22,7 @@
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://blooming-wave-23762.herokuapp.com/';
+$config['base_url'] = 'https://blooming-wave-23762.herokuapp.com';
 
 /*
 |--------------------------------------------------------------------------
