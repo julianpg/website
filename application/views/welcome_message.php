@@ -90,7 +90,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <a id="bgndVideo" class="player" data-property="{videoURL:'https://youtu.be/4XpDdIISlYo', containment:'body', autoPlay:true, realfullscreen:true, optimizeDisplay:true, loop:true, mute:true, startAt:0, stopAt: 200, quality:'auto', opacity:1, showControls: false, showYTLogo:false, vol:25}"></a>
 
     <div class="intro-body">
-        <img src="img/logo.new3.png" alt="" class="wow fadeIn" data-wow-duration="4s" data-wow-delay=".4s">
+        <img src="assets/img/logo.new3.png" alt="" class="wow fadeIn" data-wow-duration="4s" data-wow-delay=".4s">
         <div id="clock" class="wow fadeIn" data-wow-duration="6s" data-wow-delay=".6s">
             
         </div>
@@ -185,19 +185,19 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <div class="container-fluid">
         <div class="row sponsor text-center">
             <div class="col-md-2 gray col-md-offset-1">
-                <a href="/"><img src="img/logo4.png" alt=""></a>
+                <a href="/"><img src="assets/img/logo4.png" alt=""></a>
             </div>
             <div class="col-md-2 gray">
-                <a href="/"><img src="img/logo2.png" alt=""></a>
+                <a href="/"><img src="assets/img/logo2.png" alt=""></a>
             </div>
             <div class="col-md-2 gray">
-                <a href="/"><img src="img/logo3.png" alt=""></a>
+                <a href="/"><img src="assets/img/logo3.png" alt=""></a>
             </div>
             <div class="col-md-2 gray">
-                <a href="/"><img src="img/logo1.png" alt=""></a>
+                <a href="/"><img src="assets/img/logo1.png" alt=""></a>
             </div>
             <div class="col-md-2 gray">
-                <a href="/"><img src="img/logo5.png" alt=""></a>
+                <a href="/"><img src="assets/img/logo5.png" alt=""></a>
             </div>
         </div>
     </div>
@@ -281,32 +281,32 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </section>
 
 <!-- jQuery -->
-<script src="js/jquery.js"></script>
+<script src="assets/js/jquery.js"></script>
 
 <!-- Bootstrap Core JavaScript -->
-<script src="js/bootstrap.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
 
 <!-- Plugin JavaScript -->
-<script src="js/jquery.easing.min.js"></script>
-<script src="js/jquery.countdown.min.js"></script>
-<script src="js/device.min.js"></script>
-<script src="js/wow.min.js"></script>
-<script src="js/smoothscroll.js"></script>
-<script src="js/form.js"></script>
-<script src="js/jquery.placeholder.min.js"></script>
+<script src="assets/js/jquery.easing.min.js"></script>
+<script src="assets/js/jquery.countdown.min.js"></script>
+<script src="assets/js/device.min.js"></script>
+<script src="assets/js/wow.min.js"></script>
+<script src="assets/js/smoothscroll.js"></script>
+<script src="assets/js/form.js"></script>
+<script src="assets/js/jquery.placeholder.min.js"></script>
 
        
 <!-- Google Map -->
 <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&amp;sensor=false"></script>
-<script src="js/map.js"></script>
+<script src="assets/js/map.js"></script>
 
 <!-- Plugins for video background -->
-<script src="js/device.min.js"></script>
-<script src="js/jquery.mb.YTPlayer.js"></script>
+<script src="assets/js/device.min.js"></script>
+<script src="assets/js/jquery.mb.YTPlayer.js"></script>
 
 <!-- Custom Theme JavaScript -->
-<script src="js/csoon.js"></script>
+<script src="assets/js/csoon.js"></script>
 
 </body>
 </html>
