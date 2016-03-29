@@ -28,9 +28,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 
     <!-- Background Slider -->
-    <link rel="stylesheet" href="<?php echo base_url("/assets/js/vegas/vegas.min.css"); ?>" />
+    <link rel="stylesheet" href="<?php echo base_url("assets/js/vegas/vegas.min.css"); ?>" />
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="<?php echo base_url("/assets/css/csoon.css"); ?>" />
+    <link rel="stylesheet" href="<?php echo base_url("assets/css/csoon.css"); ?>" />
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -39,7 +39,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-<link rel="stylesheet" href="<?php echo base_url("/assets/css/bootstrap.min.css"); ?>" />
+<link rel="stylesheet" href="<?php echo base_url("assets/css/bootstrap.min.css"); ?>" />
 
 
 </head>
@@ -47,8 +47,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
 
-<script type="text/javascript" src="<?php echo base_url("/assets/js/jquery.js"); ?>"></script>
-<script type="text/javascript" src="<?php echo base_url("/assets/js/bootstrap.js"); ?>"></script>
+<script type="text/javascript" src="<?php echo base_url("assets/js/jquery.js"); ?>"></script>
+<script type="text/javascript" src="<?php echo base_url("assets/js/bootstrap.js"); ?>"></script>
 
 <!-- Preloader -->
 <div id="preloader"><div id="status">&nbsp;</div></div>
